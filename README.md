@@ -1,6 +1,6 @@
 ## A Simple RedLineStealer
 
-#Instructions:
+# Instructions:
 
 ![image](https://user-images.githubusercontent.com/94680549/206546946-cbc09f1c-3698-40e6-90a3-9de1f8fc11de.png)
 
