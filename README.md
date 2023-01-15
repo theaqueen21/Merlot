@@ -9,3 +9,8 @@
 >This Program Was Made For the Sole Purpose Of Learning (Use with Permission)
 
 >**We Do Not Take Responsibility For Misuse Of The Resources Provided In This Repository**
+
+
+Donations (Monero):
+![image](https://user-images.githubusercontent.com/94680549/212542546-a9bb3280-76bd-4142-90a1-2859c7c3a7e3.png)
+
