@@ -16,4 +16,5 @@ Donations (Monero):
 
 
 ![image](https://user-images.githubusercontent.com/94680549/212542546-a9bb3280-76bd-4142-90a1-2859c7c3a7e3.png)
+Thank You In Advance!
 
