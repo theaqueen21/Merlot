@@ -1,4 +1,4 @@
-## A Simple RedLineStealer
+## A Simple RedLineStealer(For Educational Purposes Only)
 
 # Instructions:
 
