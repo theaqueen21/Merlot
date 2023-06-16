@@ -15,6 +15,7 @@
 
 
 
-![image](https://user-images.githubusercontent.com/94680549/212542546-a9bb3280-76bd-4142-90a1-2859c7c3a7e3.png)
+![Donations](https://github.com/theaqueen21/Merlot/assets/94680549/6b6338a5-0938-4b36-9f76-d51e3b0d53f8)
+
 Thank You In Advance!
 
